@@ -30,7 +30,7 @@ Click **Make a contribution** at the bottom of any docs page to make small chang
 #### Make changes locally
 
 > [!NOTE]
-> Bun version 1.2.8 or higher is required to build the docs.
+> Bun version 1.4.4 or higher is required to build the docs.
 
 1. Fork the repository via the GitHub UI.
 2. Clone your forked repository to your local machine.
