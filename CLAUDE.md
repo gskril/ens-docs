@@ -28,7 +28,7 @@ bun run generate
 bunx prettier --write .
 ```
 
-**Requirements:** Bun 1.2.8+, Node 22+
+**Requirements:** Bun 1.4.4+, Node 22.23.4+ on the Node 22 release line.
 
 ## Architecture
 

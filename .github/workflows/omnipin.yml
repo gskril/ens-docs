@@ -16,11 +16,13 @@ jobs:
 
       - name: Install bun
         uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: '1.4.4'
 
       - name: Setup Node.js
         uses: actions/setup-node@v5
         with:
-          node-version: '22'
+          node-version: '22.23.4'
 
       - name: Install Omnipin
         run: bun add -g omnipin@3.0.0
